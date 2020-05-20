@@ -109,6 +109,7 @@
 ### Typescript
 - [moleculer-template-project-typescript](https://github.com/moleculerjs/moleculer-template-project-typescript)  - Project template for Typescript project.
 - [moleculer-template-nano-typescript](https://github.com/moleculerjs/moleculer-template-nano-typescript)  - Minimal project template for Typescript project.
+- [moleculer-template-project-ts](https://github.com/d0whc3r/moleculer-template-project-ts) - Project template for typescript including decorators and more.
 ## Services
 ### Gateway
 - [moleculer-web](https://github.com/moleculerjs/moleculer-web#readme)![Official Moleculer Module][official]  - Official API Gateway service.
